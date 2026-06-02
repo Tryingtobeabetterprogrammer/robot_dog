@@ -1,5 +1,5 @@
 # CHRONOS-4 : Tactical Quadrupedal Robotics Platform
-
+![CHRONOS-4 Robot Hardware](./images/robot.jpg)
 CHRONOS-4 (formerly SPECTER-ZERO) is an advanced, bio-inspired four-legged robotic platform engineered using an ESP32 microcontroller architecture. The system features a custom asynchronous local web server for real-time kinematic wireless controls, a dynamically managed interruptible smart timing engine for fluent gait tracking, and a dedicated secondary I2C telemetry pipeline displaying real-time diagnostics on an OLED interface.
 
 ---
